@@ -28,6 +28,9 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraFollow.cs" t="Include" />
+          <e p="CameraRaycaster.cs" t="Include" />
+          <e p="MyCursor.cs" t="Include" />
+          <e p="Utility.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
