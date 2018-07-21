@@ -19,6 +19,6 @@ public class MyCursor : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
 
-			Debug.Log("LayerHit is: " + cr.layerHit);
+			//Debug.Log("LayerHit is: " + cr.layerHit);
 	}
 }
